@@ -1,4 +1,4 @@
-baseURL = "https://mc.shoogle.net/monaco"
+baseURL = "https://mc.shoogle.net/monaco/"
 languageCode = "fr"
 title = "Monaco"
 theme = "ln-base"
