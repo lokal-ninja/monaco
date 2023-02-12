@@ -1,5 +1,5 @@
 ---
 title: "Ferrari"
-url: /monaco/ferrari-2/
+url: /monaco/ferrari/
 shop: réparation de voitures
 ---
