@@ -1,3 +1,2 @@
 ---
-title: Monaco
-url: /monaco/
+title: 
