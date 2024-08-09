@@ -1,3 +1,0 @@
----
-title: vélo
-url: /velo/
