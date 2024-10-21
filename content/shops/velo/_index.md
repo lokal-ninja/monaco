@@ -1,2 +1,5 @@
 ---
-title: 
+title: vélo
+url: /velo/
+icon: bicycle
+---
