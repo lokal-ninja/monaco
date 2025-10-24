@@ -1,6 +1,6 @@
 ---
 title: Monaco
 url: /monaco/
-latitude: 43.745
-longitude: 7.432
+latitude: 43.743
+longitude: 7.43
 ---
